@@ -6,4 +6,4 @@
 
 **Tech Stack**
 
-HTML | CSS | Javascript | node.js | GitHub | Ubuntu | Visual Studio Code | Figma
+HTML | CSS | Javascript | NPM | GitHub | Ubuntu | Visual Studio Code | Figma
