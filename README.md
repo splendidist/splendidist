@@ -7,4 +7,5 @@
 **Tech Stack**
 
 HTML | CSS | Javascript | NPM | SQLite
+
 GitHub | Ubuntu | Visual Studio Code | Figma 
