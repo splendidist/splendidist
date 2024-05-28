@@ -6,6 +6,6 @@
 
 **Tech Stack**
 
-HTML | CSS | Javascript | React | NPM | SQLite
+HTML | CSS | Next.JS | NPM | SQLite
 
-GitHub | Ubuntu | Visual Studio Code | Figma 
+GitHub | Ubuntu | Visual Studio Code | Figma | Clerk
