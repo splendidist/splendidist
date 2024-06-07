@@ -6,6 +6,8 @@
 
 💬 Ask me what book I'm reading (or how many...)
 
+✨ Find my personal projects here: [coming soon]
+
 **Tech Stack**
 
 HTML | CSS | Next.JS | NPM | SQLite
