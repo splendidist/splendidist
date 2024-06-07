@@ -1,6 +1,8 @@
 ### Howdy 👋
 
-📚 Currently learning to code with Tech Educators
+🦦 Tech Educators Software Development 009 Bootcamp Course
+
+📚 You can find all my bootcamp learning and projects here
 
 💬 Ask me what book I'm reading (or how many...)
 
